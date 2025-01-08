@@ -10,6 +10,12 @@ CodeCracker is a platform that:
 - Helps users monitor their problem-solving progress, ratings, and performance over time.
   
 ---
+## 🎥 Video Example
+
+https://github.com/user-attachments/assets/8a3e8752-5c49-40ae-92f9-1f53955eb48c
+
+
+---
 
 ## ✨ Key Features
 - Displays:
